@@ -2,9 +2,11 @@
 Trained a machine learning model to correct any raw equipment faults that cause to get errors in the fabrication process.
 # Aim-
 To train a machine learning model to correct any raw equipment faults that cause to get error in fabrication process.
+
 # Methodology-
 Firstly, importing the dataset in our Python code and removed unwanted features which are of no use. Some features are highly correlated like more than 90% and were removed. Replaced null values with standard techniques in ML in our dataset.
 Then model is trained for the dataset which applies Logistic Regression, SVM, Decision Tree, Random Forest and KNN.
+
 #Results-
 Model Training through Logistic Regression:
 Accuracy of Training-0.9829787234042553
